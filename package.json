@@ -16,7 +16,7 @@
   "author": "Fredrick Widjaya",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.15.1",
+    "apollo-server": "^2.25.4",
     "axios": "^0.19.2",
     "class-validator": "^0.12.2",
     "dotenv": "^8.2.0",
